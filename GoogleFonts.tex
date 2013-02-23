@@ -1,0 +1,28 @@
+% !TEX TS-program = LuaLaTeX
+\documentclass[a4paper,12pt,oneside,draft]{memoir}
+\usepackage{fontspec}
+\usepackage{datatool}
+\usepackage{kantlipsum}
+\setulmarginsandblock{1.5cm}{1.5cm}{*}
+\setlrmarginsandblock{1.5cm}{1.5cm}{*}
+\checkandfixthelayout
+\pagestyle{empty}
+\aliaspagestyle{chapter}{empty}
+\chapterstyle{bringhurst}
+\setmainfont[Ligatures=TeX]{EB Garamond}
+%\raggedright
+\traditionalparskip
+\setlength{\parindent}{2em}
+\begin{document}
+\DTLloaddb[%
+	noheader,
+	keys={File,Font,NGlyphs},
+	omitlines=0
+	]{fontdb}{./Google.Fonts/temp.txt}
+\DTLforeach*{fontdb}{\ffi=File,\ffo=Font,\fng=NGlyphs}{%
+%	\ifthenelse{\DTLcurrentindex>599}{\dtlbreak}{}%
+	\fontspec[Path=./Google.Fonts/]{\ffi}
+	\chapter{\ffo{} (\fng)}
+	\kant[1-2]
+	}
+\end{document}

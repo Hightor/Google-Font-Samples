@@ -1,0 +1,487 @@
+Abel-Regular.otf,Abel,259
+Acme-Regular.otf,Acme,229
+Actor-Regular.otf,Actor Regular,237
+Adamina-Regular.otf,Adamina,225
+AdventPro-Bold.otf,Advent Pro Bold,411
+AdventPro-ExtraLight.otf,Advent Pro ExtraLight,411
+AdventPro-Light.otf,Advent Pro Light,411
+AdventPro-Medium.otf,Advent Pro Medium,411
+AdventPro-Regular.otf,Advent Pro Regular,411
+AdventPro-SemiBold.otf,Advent Pro SemiBold,412
+AdventPro-Thin.otf,Advent Pro Thin,411
+Aguafina-Regular.otf,Aguafina Script,233
+Aladin-Regular.otf,Aladin Regular,234
+Aldrich-Regular.otf,Aldrich,257
+Alegreya-Black.otf,Alegreya Black,499
+Alegreya-BlackItalic.otf,Alegreya Black Italic,499
+Alegreya-Bold.otf,Alegreya Bold,499
+Alegreya-BoldItalic.otf,Alegreya Bold Italic,499
+Alegreya-Italic.otf,Alegreya Italic,499
+Alegreya-Regular.otf,Alegreya,500
+AlegreyaSC-Black.otf,Alegreya SC Black,495
+AlegreyaSC-BlackItalic.otf,Alegreya SC Black Italic,495
+AlegreyaSC-Bold.otf,Alegreya SC Bold,495
+AlegreyaSC-BoldItalic.otf,Alegreya SC Bold Italic,495
+AlegreyaSC-Italic.otf,Alegreya SC Italic,495
+AlegreyaSC-Regular.otf,Alegreya SC,495
+AlexBrush-Regular-OTF.otf,Alex Brush,256
+AlfaSlabOne-Regular-OTF.otf,Alfa Slab One,264
+Alice-Regular.otf,Alice,228
+AlikeAngular-Regular.otf,Alike Angular,224
+Alike-Regular.otf,Alike,225
+Allerta-Regular.otf,Allerta Regular,217
+AllertaStencil-Regular.otf,Allerta Stencil Regular,217
+Allura-Regular.otf,Allura,385
+Almendra-Bold.otf,Almendra Bold,246
+Almendra-Italic.otf,Almendra Italic,245
+Amaranth-Bold.otf,Amaranth Bold,216
+Amaranth-BoldItalic.otf,Amaranth Bold Italic,223
+Amaranth-Italic.otf,Amaranth Italic,216
+Amaranth-Regular.otf,Amaranth Regular,216
+Amethysta-Regular.otf,Amethysta,224
+Andada-Regular.otf,Andada,622
+Andika-R-designsource.otf,Andika,4788
+AnticDidone-Regular.otf,Antic Didone,219
+AnticSlab-Regular.otf,Antic Slab,218
+Arapey-Italic.otf,Arapey Italic,248
+Arapey-Regular.otf,Arapey Regular,245
+Arbutus-Regular.otf,Arbutus,424
+Arizonia-Regular-OTF.otf,Arizonia,250
+Armata-Regular.otf,Armata,427
+Asap-Bold.otf,Asap Bold,250
+Asap-BoldItalic.otf,Asap Bold Italic,250
+Asap-Italic.otf,Asap Italic,250
+Asap-Regular.otf,Asap,250
+Asset.otf,Asset,235
+Asul-Bold.otf,Asul Bold,243
+Asul-Regular.otf,Asul,243
+AtomicAge-Regular.otf,Atomic Age,402
+Aubrey-Regular.otf,Aubrey,223
+Audiowide-Regular.otf,Audiowide,367
+Average-Regular.otf,Average,252
+BadScript-Regular.otf,Bad Script Regular,318
+Balthazar-Regular.otf,Balthazar,245
+Basic-Regular.otf,Basic Regular,426
+Baumans-Regular.otf,Baumans,221
+Belgrano-Regular.otf,Belgrano,228
+Belleza-Regular.otf,Belleza,245
+Bentham.otf,Bentham,316
+BerkshireSwash-Regular.otf,Berkshire Swash,379
+BigshotOne.otf,Bigshot One,216
+Bilbo-Regular.otf,Bilbo Regular,247
+BilboSwashCaps-Regular.otf,Bilbo Swash Caps Regular,246
+Bitter-Bold.otf,Bitter Bold,249
+Bitter-Italic.otf,Bitter Italic,373
+Bitter-Regular.otf,Bitter Regular,251
+BlackOpsOne.otf,Black Ops One,275
+Bonbon-Regular.otf,Bonbon,229
+Boogaloo-Regular.otf,Boogaloo,292
+BowlbyOne-Regular.otf,Bowlby One,291
+BowlbyOneSC-Regular.otf,Bowlby One SC,373
+Brawler.otf,Brawler,230
+BreeSerif-Regular.otf,Bree Serif,415
+BubblegumSans-Regular.otf,Bubblegum Sans,235
+BubblerOne-Regular.otf,Bubbler One Regular,217
+Buenard-Bold.otf,Buenard Bold,404
+Buenard-Regular.otf,Buenard,406
+Cabin-Bold.otf,Cabin Bold,266
+Cabin-BoldItalic.otf,Cabin Bold Italic,266
+Cabin-Italic.otf,Cabin Italic,266
+Cabin-Medium.otf,Cabin Medium,266
+Cabin-MediumItalic.otf,Cabin Medium Italic,266
+Cabin-Regular.otf,Cabin Regular,266
+Cabin-SemiBold.otf,Cabin SemiBold,266
+Cabin-SemiBoldItalic.otf,Cabin SemiBold Italic,266
+CabinSketch-Bold.otf,CabinSketch Bold,223
+CabinSketch-Regular.otf,CabinSketch,223
+Cagliostro-Regular.otf,Cagliostro Regular,260
+Cambo-Regular.otf,Cambo,233
+CantataOne-Regular.otf,Cantata One,426
+Cardo-Italic.otf,Cardo Italic,2972
+Carme-Regular.otf,Carme,203
+CevicheOne-Regular.otf,Ceviche One,246
+ChangaOne-Italic.otf,Changa One Italic,244
+ChangaOne-Regular.otf,Changa One Regular,245
+Chango-Regular.otf,Chango Regular,272
+ChauPhilomeneOne-Italic.otf,Chau Philomene One Italic,328
+ChauPhilomeneOne-Regular.otf,Chau Philomene One,328
+Chicle-Regular.otf,Chicle Regular,234
+Chivo-BlackItalic.otf,Chivo Black Italic,249
+Chivo-Italic.otf,Chivo Italic,249
+Clara-Regular.otf,Clara,603
+ConcertOne-Regular.otf,Concert One,231
+Condiment-Regular.otf,Condiment,232
+Convergence-Regular.otf,Convergence Regular,255
+Cookie-Regular.otf,Cookie Regular,258
+Corben-Regular.otf,Corben Regular,0
+Coustard-Black.otf,Coustard-Black,323
+Coustard-Regular.otf,Coustard,324
+CoveredByYourGrace.otf,Covered By Your Grace,350
+CreteRound-Regular.otf,Crete Round,416
+CrimsonText-Roman.otf,Crimson Text,0
+Cutive-Regular.otf,Cutive Book,367
+DancingScript-Bold.otf,Dancing Script Bold,236
+DancingScript-Regular.otf,Dancing Script,236
+DawningofaNewDay.otf,Dawning of a New Day,264
+DaysOne-Regular.otf,Days One,350
+Delius-Regular.otf,Delius,297
+DeliusSwashCaps-Regular.otf,Delius Swash Caps,272
+DeliusUnicase-Bold.otf,Delius Unicase Bold,256
+DeliusUnicase-Regular.otf,Delius Unicase,256
+Devonshire-Regular.otf,Devonshire,372
+Dhyana-Bold.otf,Dhyana Bold,0
+Dhyana-Regular.otf,Dhyana,0
+DidactGothic.otf,Didact Gothic,1094
+Diplomata-Regular.otf,Diplomata,244
+DiplomataSC-Regular.otf,Diplomata SC,244
+DoppioOne-Regular.otf,DoppioOne-Regular,403
+Dosis-Bold.otf,Dosis Bold,418
+Dosis-ExtraBold.otf,Dosis ExtraBold,418
+Dosis-ExtraLight.otf,Dosis ExtraLight,418
+Dosis-Light.otf,Dosis Light,418
+Dosis-Medium.otf,Dosis Medium,418
+Dosis-Regular.otf,Dosis,418
+Dosis-SemiBold.otf,Dosis SemiBold,418
+DrSujiyama-Regular.otf,Dr Sugiyama,231
+DuruSans-Regular.otf,Duru Sans,425
+Dynalight-Regular.otf,Dynalight,370
+EBGaramond.otf,EB Garamond,2390
+EBGaramondSC.otf,EB Garamond Regular SmallCaps,1206
+Economica-BoldItalic-OTF.otf,Economica Bold Italic,259
+Economica-Bold-OTF.otf,Economica Bold,256
+Economica-Italic-OTF.otf,Economica Italic,256
+Economica-Regular-OTF.otf,Economica,256
+Electrolize-Regular.otf,Electrolize,226
+EmblemaOne-Regular.otf,Emblema One,405
+Engagement-Regular.otf,Engagement,372
+Enriqueta-Bold.otf,Enriqueta Bold,393
+Enriqueta-Regular.otf,Enriqueta Regular,400
+EricaOne-Regular.otf,Erica One,248
+Esteban-Regular.otf,Esteban,270
+EuphoriaScript-Regular.otf,Euphoria Script,217
+Ewert-Regular.otf,Ewert,221
+Exo-Black.otf,Exo Black,729
+Exo-BlackItalic.otf,Exo Black Italic,729
+Exo-Bold.otf,Exo Bold,729
+Exo-BoldItalic.otf,Exo Bold Italic,729
+Exo-ExtraBold.otf,Exo ExtraBold,729
+Exo-ExtraBoldItalic.otf,Exo ExtraBold Italic,729
+Exo-ExtraLight.otf,Exo ExtraLight,729
+Exo-ExtraLightItalic.otf,Exo ExtraLight Italic,729
+Exo-Italic.otf,Exo Italic,729
+Exo-Light.otf,Exo Light,729
+Exo-LightItalic.otf,Exo Light Italic,729
+Exo-Medium.otf,Exo Medium,729
+Exo-MediumItalic.otf,Exo Medium Italic,729
+Exo-Regular.otf,Exo Regular,729
+Exo-SemiBold.otf,Exo DemiBold,729
+Exo-SemiBoldItalic.otf,Exo DemiBold Italic,729
+Exo-Thin.otf,Exo Thin,729
+Exo-ThinItalic.otf,Exo Thin Italic,729
+FascinateInline-Regular.otf,Fascinate Inline,377
+Fascinate-Regular.otf,Fascinate,377
+Federant-Regular.otf,Federant Medium,229
+Federo-Regular.otf,Federo,223
+Felipa-Regular.otf,Felipa,276
+FjordOne-Regular.otf,Fjord One,282
+Flamenco-Light.otf,Flamenco Light,230
+Flamenco-Regular.otf,Flamenco,230
+Fondamento-Italic.otf,Fondamento Italic,370
+Fondamento-Regular.otf,Fondamento,370
+Forum-Regular.otf,Forum,584
+FredokaOne-Regular.otf,Fredoka One,233
+Fresca-Regular.otf,Fresca,304
+FugazOne-Regular.otf,Fugaz One,227
+Galdeano-Regular.otf,Galdeano,245
+Geo-Oblique.otf,GeoOblique,206
+Geo-Regular.otf,Geo,206
+GeostarFill-Regular.otf,Geostar Fill,225
+Geostar-Regular.otf,Geostar,225
+GermaniaOne-Regular.otf,Germania One,281
+GFSDidot.otf,GFS Didot Regular,1145
+GFSDidotBold.otf,GFS Didot Bold,949
+GFSDidotBoldItalic.otf,GFS Didot Bold Italic,932
+GFSDidotItalic.otf,GFS Didot Italic,948
+GFSNeohellenic.otf,GFS Neohellenic Regular,1141
+GFSNeohellenicBold.otf,GFS Neohellenic Bold,877
+GFSNeohellenicBoldIt.otf,GFS Neohellenic Bold Italic,886
+GFSNeohellenicIt.otf,GFS Neohellenic Italic,922
+GiveYouGlory.otf,Give You Glory,355
+GlassAntiqua-Regular.otf,Glass Antiqua,356
+Glegoo-Regular.otf,Glegoo,245
+GoblinOne.otf,Goblin,258
+GochiHand-Regular.otf,Gochi Hand,242
+Gorditas-Bold.otf,Gorditas Bold,217
+Gorditas-Regular.otf,Gorditas,219
+GoudyBookletter1911.otf,Goudy Bookletter 1911,305
+Graduate-Regular.otf,Graduate,243
+GreatVibes-Regular.otf,Great Vibes,447
+Gruppo-Regular.otf,Gruppo,386
+Gudea-Bold.otf,Gudea Bold,276
+Gudea-Italic.otf,Gudea Italic,289
+Gudea-Regular.otf,Gudea,276
+Habibi-Regular.otf,Habibi,426
+Handlee-Regular.otf,Handlee Regular,202
+HappyMonkey-Regular.otf,Happy Monkey,217
+HeadlandOne-Regular.otf,Headland One,423
+HennyPenny-Regular.otf,Henny Penny,230
+HerrVonMuellerhoff-Regular.otf,Herr Von Muellerhoff Regular,231
+Homenaje-Regular.otf,Homenaje,239
+Iceberg-Regular.otf,Iceberg,225
+Iceland-Regular-OTF.otf,Iceland,219
+Imprima-Regular.otf,Imprima,245
+Inconsolata-Bold.otf,Inconsolata Bold,303
+Inder-Regular.otf,Inder,426
+Inika-Bold.otf,Inika Bold,305
+Inika-Regular.otf,Inika,305
+Italiana-Regular.otf,Italiana,216
+Italianno-Regular-OTF.otf,Italianno,666
+JimNightshade-Regular.otf,Jim Nightshade,370
+JockeyOne-Regular.otf,Jockey One Regular,394
+JosefinSansStd-Light.otf,Josefin Sans Std Light,375
+Judson-Bold.otf,Judson Bold,717
+Judson-Italic.otf,Judson Italic,712
+Judson-Regular.otf,Judson,853
+Julee-Regular.otf,Julee,245
+Junge-Regular.otf,Junge,222
+Jura-DemiBold.otf,Jura Demi-Bold,734
+Jura-Light.otf,Jura Light,734
+Jura-Medium.otf,Jura Medium,734
+Jura-Regular.otf,Jura Book,734
+JustMeAgainDownHere.otf,Just Me Again Down Here,352
+KaushanScript-Regular.otf,Kaushan Script,414
+KellySlab-Regular.otf,Kelly Slab,452
+KottaOne-Regular.otf,Kotta One,259
+KronaOne-Regular.otf,Krona One,424
+LeagueScript.otf,LeagueScriptThin-Regular,207
+LeckerliOne-Regular.otf,LeckerliOne,215
+Ledger-Regular.otf,Ledger,450
+LektonItalic004.otf,Lekton Italic,204
+Lemon-Regular.otf,Lemon Regular,248
+LilitaOne-Regular.otf,Lilita One,228
+Limelight-Regular.otf,Limelight,311
+Limelight-Regular-OTF.otf,Limelight,311
+Lobster-Cyrillic.otf,Lobster,649
+LobsterTwo-Bold.otf,Lobster Two Bold,357
+LobsterTwo-BoldItalic.otf,Lobster Two Bold Italic,357
+LobsterTwo-Italic.otf,Lobster Two Italic,357
+LobsterTwo-Regular.otf,Lobster Two,357
+LondrinaOutline-Regular.otf,Londrina Outline,231
+LondrinaShadow-Regular.otf,Londrina Shadow,231
+LondrinaSketch-Regular.otf,Londrina Sketch,231
+LondrinaSolid-Regular.otf,Londrina Solid,231
+LovedbytheKing.otf,Loved by the King,353
+LoversQuarrel-Regular.otf,Lovers Quarrel,262
+LoveYaLikeASister.otf,Love Ya Like A Sister,354
+Lusitana-Bold.otf,Lusitana Bold,208
+Lusitana-Regular.otf,Lusitana,212
+Lustria-Regular.otf,Lustria,262
+Macondo-Regular.otf,Macondo,310
+MacondoSwashCaps-Regular.otf,Macondo Swash Caps,246
+Magra-Bold.otf,Magra Bold,426
+Magra-Regular.otf,Magra,426
+Marcellus-Regular.otf,Marcellus,370
+MarckScript-Regular.otf,Marck Script Regular,443
+MarkoOne-Regular.otf,Marko One,220
+Marmelad-Regular.otf,Marmelad,353
+Marvel-Bold.otf,Marvel Bold,195
+Marvel-BoldItalic.otf,Marvel Bold Italic,195
+Marvel-Italic.otf,Marvel Italic,195
+Marvel-Regular.otf,Marvel,195
+Mate-Italic.otf,Mate Italic,244
+Mate-Regular.otf,Mate Regular,244
+MateSC-Regular.otf,Mate SC Regular,244
+MavenPro-Black.otf,Maven Pro Black,532
+MavenPro-Bold.otf,Maven Pro Bold,532
+MavenPro-Medium.otf,Maven Pro Medium,532
+MavenPro-Regular.otf,Maven Pro Regular,532
+MedulaOne-Regular.otf,Medula One,228
+Megrim.otf,Megrim,350
+MeriendaOne-Regular.otf,Merienda One,243
+Merriweather-Black.otf,Merriweather Heavy,345
+Merriweather-Bold.otf,Merriweather Bold,345
+Merriweather-Light.otf,Merriweather Light,344
+Merriweather-Regular.otf,Merriweather,345
+Metamorphous-Regular.otf,Metamorphous,426
+Metrophobic.otf,Metrophobic,277
+Miltonian-Regular.otf,Miltonian,238
+MiltonianTattoo-Regular.otf,Miltonian Tattoo,238
+MissFajardose-Regular.otf,Miss Fajardose Regular,234
+Monofett.otf,Monofett,409
+MonsieurLaDoulaise-Regular.otf,Monsieur La Doulaise Regular,232
+Montaga-Regular.otf,Montaga,245
+Montserrat-Regular.otf,Montserrat Regular,0
+MrBedford-Regular.otf,Mr Bedfort Regular,232
+MrBedfort-Regular.otf,Mr Bedfort,232
+MrDafoe-Regular.otf,Mr Dafoe Regular,233
+MrDeHaviland-Regular.otf,Mr De Haviland Regular,233
+MrsSaintDelafield-Regular.otf,Mrs Saint Delafield,236
+MrsSheppards-Regular.otf,Mrs Sheppards Regular,233
+neucha.otf,Neucha,280
+NeutonCursive-Regular.otf,Neuton Cursive,0
+Neuton-Italic.otf,Neuton Italic,0
+Niconne-Regular.otf,Nicone,291
+NixieOne-Regular.otf,Nixie One,220
+Norican-Regular.otf,Norican Regular,272
+NothingYouCouldDo.otf,Nothing You Could Do,312
+Numans-Regular.otf,Numans,244
+OFLGoudyStM.otf,OFL Sorts Mill Goudy,617
+OFLGoudyStM-Italic.otf,OFL Sorts Mill Goudy Italic,512
+Oldenburg-Regular.otf,Oldenburg,424
+OleoScript-Bold.otf,Oleo Script Bold,264
+OleoScript-Regular.otf,Oleo Script,244
+Orbitron-Black.otf,Orbitron Black,249
+Orbitron-Bold.otf,Orbitron Bold,249
+Orbitron-Light.otf,Orbitron Light,249
+Orbitron-Medium.otf,Orbitron Medium,249
+OriginalSurfer-Regular.otf,Original Surfer,370
+Overlock-BlackItalic-OTF.otf,Overlock Black Italic,281
+Overlock-Black-OTF.otf,Overlock Black,279
+Overlock-BoldItalic-OTF.otf,Overlock Bold Italic,282
+Overlock-Bold-OTF.otf,Overlock Bold,278
+Overlock-Italic-OTF.otf,Overlock Italic,281
+Overlock-Regular-OTF.otf,Overlock,347
+OverlockSC-Regular.otf,Overlock SC,245
+Ovo-Regular.otf,Ovo,268
+Oxygen-Regular.otf,Oxygen,407
+Parisienne-Regular.otf,Parisienne,370
+PasseroOne-Regular.otf,Passero One,262
+PassionOne-Black.otf,Passion One Black,272
+PassionOne-Bold.otf,Passion One Bold,272
+PassionOne-Regular.otf,Passion One,272
+PatrickHand-Regular.otf,Patrick Hand,343
+PatuaOne-Regular.otf,Patua One,234
+Pecita.otf,Pecita,2954
+Petrona-Regular.otf,Petrona-Regular,259
+Piedra-Regular.otf,Piedra,235
+PinyonScript-Regular.otf,Pinyon Script,264
+Plaster-Regular.otf,Plaster Regular,426
+PlayBall-Regular.otf,Playball,248
+PlayfairDisplay.otf,Playfair Display,695
+PlayfairDisplay-Italic.otf,Playfair Display Italic,695
+PlayfairDisplay-Regular.otf,Google,695
+Podkova-Bold.otf,Podkova Bold,222
+Podkova-Regular.otf,Podkova,219
+PoiretOne-Regular.otf,Poiret One,502
+PollerOne.otf,Poller,239
+Poly-Italic.otf,Poly Italic,511
+Pompiere-Regular.otf,Pompiere ,271
+PontanoSans-Regular.otf,Pontano Sans,363
+PortLligatSans-Regular.otf,Port Lligat Sans,264
+PortLligatSlab-Regular.otf,Port Lligat Slab,260
+Prata-Regular.otf,Prata,0
+ProstoOne-Regular.otf,Prosto One,405
+Puritan-Bold.otf,Puritan Bold,237
+Puritan-BoldItalic.otf,Puritan Bold Italic,237
+Puritan-Italic.otf,Puritan Italic,237
+Puritan-Regular.otf,Puritan Regular,237
+Quantico-Bold.otf,Quantico Bold,266
+Quantico-BoldItalic.otf,Quantico Bold Italic,266
+Quantico-Italic.otf,Quantico Italic,266
+Quantico-Regular.otf,Quantico,266
+Quattrocento-Bold.otf,Quattrocento Bold,249
+Quattrocento-Regular.otf,Quattrocento,249
+QuattrocentoSans-Bold.otf,Quattrocento Sans Bold,243
+QuattrocentoSans-BoldItalic.otf,Quattrocento Sans Bold Italic,244
+QuattrocentoSans-Italic.otf,Quattrocento Sans Italic,245
+QuattrocentoSans-Regular.otf,Quattrocento Sans,243
+Questrial-Regular.otf,Questrial,246
+Quicksand-Bold.otf,Quicksand Bold,195
+Quicksand-BoldItalic.otf,Quicksand Bold Italic,187
+Quicksand-Italic.otf,Quicksand Italic,191
+Quicksand-Light.otf,Quicksand Light,189
+Quicksand-LightItalic.otf,Quicksand Light Italic,177
+Quicksand-Regular.otf,Quicksand Regular,201
+Qwigley-Regular-OTF.otf,Qwigley,244
+Radley-Regular.otf,Radley,347
+Raleway-Thin.otf,Raleway Thin,263
+RammettoOne-Regular.otf,Rammetto One Regular,350
+Rationale-Regular.otf,Rationale One,219
+Revalia-Regular.otf,Revalia,220
+RibeyeMarrow-Regular.otf,Ribeye Marrow,370
+Ribeye-Regular.otf,Ribeye,370
+Righteous-Regular.otf,Righteous,370
+Rochester-Regular.otf,Rochester,230
+Rokkitt-Bold.otf,Rokkitt Bold,328
+Rokkitt-Light.otf,Rokkitt Light,321
+Rokkitt-Regular.otf,Rokkitt,305
+RopaSans-Italic.otf,Ropa Sans Italic,264
+RopaSans-Regular.otf,Ropa Sans,264
+Rosario-Bold.otf,Rosario Bold,247
+Rosario-BoldItalic.otf,Rosario Bold Italic,248
+Rosario-Italic.otf,Rosario,245
+Rosario-Regular.otf,Rosario Regular,248
+Rosarivo-Italic.otf,Rosarivo Italic,238
+Rosarivo-Regular.otf,Rosarivo,230
+RougeScript-Regular.otf,Rouge Script,221
+Ruda-Black.otf,Ruda Black,244
+Ruda-Bold.otf,Ruda Bold,243
+Ruda-Regular.otf,Ruda,243
+RugeBoogie-Regular-OTF.otf,Ruge Boogie,249
+Ruluko-Regular.otf,Ruluko,255
+RuslanDisplay.otf,Ruslan Display,452
+Ruthie-Regular-OTF.otf,Ruthie,268
+Sail-Regular.otf,Sail,222
+Salsa-Regular.otf,Salsa Regular,360
+Sancreek-Regular.otf,Sancreek Regular,0
+Sarina-Regular.otf,Sarina,424
+Sevillana-Regular.otf,Sevillana,228
+Share-Bold.otf,Share Bold,256
+Share-BoldItalic.otf,Share-BoldItalic,256
+Share-Italic.otf,Share Italic,256
+Share-Regular.otf,Share,256
+Shojumaru-Regular.otf,Shojumaru,371
+ShortStack-Regular.otf,Short Stack,279
+SigmarOne.otf,Sigmar,394
+SignikaNegative-Light.otf,Signika Negative Light,384
+Simonetta-Black.otf,Simonetta Black,239
+Simonetta-BlackItalic.otf,Simonetta Black Italic,237
+Simonetta-Italic.otf,Simonetta Italic,231
+Simonetta-Regular.otf,Simonetta,231
+SirinStencil-Regular.otf,SirinStencil,225
+Sniglet_Regular.otf,Sniglet-Regular,202
+Snippet.otf,Snippet,216
+Sofia-Regular.otf,Sofia,230
+SonsieOne-Regular.otf,Sonsie One,425
+SpicyRice-Regular.otf,Spicy Rice,371
+Spinnaker-Regular.otf,Spinnaker Regular,260
+Spirax-Regular.otf,Spirax,220
+SquadaOne-Regular.otf,Squada One Regular,190
+StintUltraCondensed-Regular.otf,Stint Ultra Condensed,371
+StintUltraExpanded-Regular.otf,Stint Ultra Expanded,371
+Stoke-Regular.otf,Stoke,427
+Strong_Regular.otf,Strong,320
+SupermercadoOne-Regular.otf,Supermercado One Regular,266
+Telex-Regular.otf,Telex,236
+TenorSans-Regular.otf,Tenor Sans,477
+Tienne-Bold.otf,Tienne Bold,302
+Tienne-Heavy.otf,Tienne Heavy,340
+Tienne-Regular.otf,Tienne,354
+TitanOne-Regular.otf,Titan One,420
+Trochut-Bold.otf,Trochut Bold,221
+Trochut-Italic.otf,Trochut Italic,221
+Trochut-Regular.otf,Trochut,223
+Trykker-Regular.otf,Trykker,425
+Tuffy-Bold.otf,Tuffy Bold,890
+Tuffy-BoldItalic.otf,Tuffy Bold Italic,890
+Tuffy-Italic.otf,Tuffy Italic,1502
+Tuffy-Regular.otf,Tuffy Regular,1502
+UncialAntiqua-Regular.otf,Uncial Antiqua,369
+Unlock-Regular.otf,Unlock Regular,250
+Unna-Regular.otf,Unna,222
+Varela-Regular.otf,Varela,848
+VarelaRound-Regular.otf,Varela Round,249
+VastShadow-Regular.otf,Vast Shadow Regular,233
+Vidaloka-Regular.otf,Vidaloka ,231
+Viga-Regular.otf,Viga,281
+Voces-Regular.otf,Voces,681
+Volkhov-BoldItalic-OTF.otf,Volkhov Bold Italic,225
+Volkhov-Bold-OTF.otf,Volkhov Bold,225
+Volkhov-Italic-OTF.otf,Volkhov Italic,225
+Volkhov-Regular-OTF.otf,Volkhov,225
+vollkorn.otf,Vollkorn,240
+Voltaire-Regular.otf,Voltaire,238
+Wellfleet-Regular.otf,Wellfleet,426
+Yellowtail-Regular.otf,Yellowtail,372
+YesevaOne.otf,Yeseva One,240
+Yesteryear-Regular.otf,Yesteryear,370
