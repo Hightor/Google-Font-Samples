@@ -1,1 +1,4 @@
 Google.Fonts/*.otf
+/*.aux
+/*.synctex.gz
+/*.log

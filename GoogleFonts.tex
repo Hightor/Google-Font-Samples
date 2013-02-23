@@ -1,8 +1,9 @@
 % !TEX TS-program = LuaLaTeX
-\documentclass[a4paper,12pt,oneside,draft]{memoir}
+\documentclass[a4paper,10pt,oneside,draft]{memoir}
 \usepackage{fontspec}
 \usepackage{datatool}
 \usepackage{kantlipsum}
+\usepackage[final]{microtype}
 \setulmarginsandblock{1.5cm}{1.5cm}{*}
 \setlrmarginsandblock{1.5cm}{1.5cm}{*}
 \checkandfixthelayout
@@ -23,6 +24,6 @@
 %	\ifthenelse{\DTLcurrentindex>599}{\dtlbreak}{}%
 	\fontspec[Path=./Google.Fonts/]{\ffi}
 	\chapter{\ffo{} (\fng)}
-	\kant[1-2]
+	\kant[1-3]
 	}
 \end{document}
